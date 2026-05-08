@@ -1,7 +1,11 @@
 # 👋 안녕하세요! 백엔드 개발자 이명준입니다.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Myeongjun%20Lee&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=003545&height=180&section=header&text=Myeongjun%20Lee&fontSize=45&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Backend+Developer;%F0%9F%92%AC+AI+Integration+Specialist;%F0%9F%92%BD+Data+Modeling+Enthusiast" />
 </p>
 
 <p align="center">
@@ -9,6 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Busan-South%20Korea-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/LMJ-01?style=flat-square&color=lightgray" />
 </p>
 
 > **"대중성과 전문성을 잇는 데이터 선순환과 AI 통합에 몰입하는 주니어 백엔드 개발자입니다."** > 데이터 모델링의 정교함과 인프라 배포의 안정성을 최우선으로 생각하며, 최신 기술 아키텍처와 분리 설계를 지향합니다.
@@ -21,26 +26,47 @@
 <p align="left">
   <img src="https://img.shields.io/badge/java%2017-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/springboot%203.2.4-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+### Scraping & Data Processing
+<p align="left">
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/react%2018-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" />
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/recharts-3182BD?style=for-the-badge&logo=chartmogul&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
 ### Database & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ---
