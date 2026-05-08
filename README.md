@@ -2,7 +2,13 @@
 
 # 💻 Myeongjun Lee | Back-End Engineer
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e222b&height=120&section=header&text=Myeongjun%20Lee&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=003545&height=180&section=header&text=Myeongjun%20Lee&fontSize=45&fontColor=ffffff" />
+
+<br>
+
+<img src="https://github.com/LMJ-01.png" width="120px" style="border-radius: 50%; border: 3px solid #003545; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Focus+on+Robust+Backend+Architecture;%F0%9F%9A%80+Spring+Boot+%26+FastAPI+%26+React;%F0%9F%94%8C+Seamless+AI+Integration+%26+Data+Pipeline" />
 
@@ -11,6 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Busan-South%20Korea-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Born-2001.09.03-FF69B4?style=flat-square&logo=cakephp&logoColor=white"/>
   <img src="https://img.shields.io/github/followers/LMJ-01?style=flat-square&color=lightgray" />
 </p>
 
@@ -19,6 +26,26 @@
 현재는 대량의 외부 데이터를 수집해 정규화하고, 이를 다양한 AI 모델 및 유저 데이터와 결합하는 데이터 파이프라인 설계에 몰입하고 있습니다.
 
 </div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical" alt="LMJ-01's GitHub stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LMJ-01&layout=compact&theme=radical" alt="LMJ-01's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMJ-01&theme=radical" alt="LMJ-01's GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,7 +77,7 @@
   <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&white" />
 </p>
 
 ---
@@ -59,7 +86,7 @@
 
 ### 👥 Team Projects
 
-#### 🎬 [Connected_M](https://github.com/LMJ-01/Connected-M.git) (영화 탐색 및 AI 분석 플랫폼)
+#### 🎬 [ConnectedM](https://github.com/LMJ-01/Connected-M.git) (영화 탐색 및 AI 분석 플랫폼)
 * **Description**: 대중 데이터(TMDB)와 전문 비평(씨네21) 데이터 매핑 및 AI 챗봇 추천 영화 플랫폼
 * **Stack**: Spring Boot, Spring Security, OAuth2, JWT, FastAPI, LangChain, MariaDB, React, Docker, GCP
 * **Key Role**:
@@ -89,24 +116,11 @@
 ---
 
 ## 🎓 Certifications
-* **정보처리기사** - 한국산업인력공단 (2025.12 취득)
-* **SQLD** (SQL Developer) - 한국데이터산업진흥원 (2025.12 취득)
-* **ADsP** (데이터분석준전문가) - 한국데이터산업진흥원 (2026.02 취득)
 
----
-
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical" alt="LMJ-01's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMJ-01&layout=compact&theme=radical" alt="LMJ-01's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMJ-01&theme=radical" alt="LMJ-01's GitHub streak" />
+<p align="left">
+  <img src="https://img.shields.io/badge/정보처리기사-한국산업인력공단%20(2025.12)-0052CC?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLD-한국데이터산업진흥원%20(2025.12)-009688?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADsP-한국데이터산업진흥원%20(2026.02)-FF9800?style=flat-square&logo=googleanalytics&logoColor=white" />
 </p>
 
 ---
