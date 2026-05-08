@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Busan-South%20Korea-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-> **"대중성과 전문성을 잇는 데이터 선순환과 AI 통합에 몰입하는 주니어 백엔드 개발자입니다."** > 데이터 모델링의 정교함과 인프라 배포의 안정성을 최우선으로 생각하며, 현재 영화 탐색 및 AI 분석 플랫폼 **ConnectedM** 프로젝트를 리딩하고 있습니다.
+> **"대중성과 전문성을 잇는 데이터 선순환과 AI 통합에 몰입하는 주니어 백엔드 개발자입니다."** > 데이터 모델링의 정교함과 인프라 배포의 안정성을 최우선으로 생각하며, 최신 기술 아키텍처와 분리 설계를 지향합니다.
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 🚀 Key Projects
 
-### 🎬 [ConnectedM](https://github.com/LMJ-01) (영화 탐색 및 AI 분석 플랫폼)
+### 🎬 [ConnectedM](https://github.com/LMJ-01/Connected-M.git) (영화 탐색 및 AI 분석 플랫폼)
 * **Description**: TMDB의 대중적인 데이터와 씨네21의 전문 비평 데이터를 하이브리드로 통합하고, Google Gemini AI 기반 챗봇을 통해 개인화된 맞춤형 추천 및 영화 심층 분석을 제공하는 플랫폼입니다.
 * **Stack**: Java 17, Spring Boot 3.2.4, Python, FastAPI, MariaDB (JPA), LangChain, React 18, TypeScript, Docker, GCP
 * **Key Role**:
@@ -56,17 +56,26 @@
   * **고성능 AI 서버 독립 분리**: 메인 서버(Spring Boot)와 AI 전용 서버(FastAPI)의 분리 설계를 통해 효율적인 부하 분산 및 확장성 확보
   * **데이터 선순환 구조 설계**: 유저의 최근 본 목록(`RecentView`), 찜 목록, 작성 리뷰 평점 데이터를 유기적으로 연결한 마이페이지 기능 및 평균 별점 통계 구현
 
-### 🛡️ [Fake-Buster](https://github.com/LMJ-01) (AI 생성 콘텐츠 판별 서비스)
-* **Description**: 생성형 AI 기술의 오용으로 발생하는 가짜 뉴스와 이미지 등 데이터 왜곡 문제를 방지하기 위해 AI 콘텐츠의 신뢰도를 판별하는 교육 솔루션입니다.
-* **Stack**: Python, Data Analysis Tools, LangChain, Google Gemini API
-* **Key Role**: 데이터 수집 및 텍스트 데이터의 특징을 추출하는 분석 알고리즘 설계, 판별 정확도 향상을 위한 프롬프트 엔지니어링 수행
+### 🌉 [Invisible-AI-Bridge](https://github.com/Invisible-AI-Bridge/Invisible-AI-Bridge.git) (AI 중계 및 파이프라인 인프라)
+* **Description**: 이종 시스템 및 인공지능 모델 간의 끊김 없는 데이터 중계와 다중 API 통신 최적화를 지원하는 고성능 AI 브릿지 서비스입니다.
+* **Stack**: Java, Spring Boot, Python, LangChain, API Gateways, RESTful API
+* **Key Role**:
+  * 여러 LLM 제공자(Gemini, OpenAI 등)와의 유연하고 안전한 세션 연동 파이프라인 설계
+  * 비동기 메시지 처리 및 데이터 파싱 모듈을 통한 실시간 지능형 데이터 정제 및 동기화 인프라 기여
+
+### 👕 [Stylemate](https://github.com/LMJ-01/stylemate.git) (개인 취향 기반 패션 및 스타일 매칭 플랫폼)
+* **Description**: 유저가 등록한 개인 데이터와 실시간 기상/취향 등의 외부 API를 결합해 상황에 맞는 코디네이션 및 스타일 맞춤 가이드를 제공하는 플랫폼입니다.
+* **Stack**: Java, Spring Boot, React, MariaDB, JWT, REST API, Axios Interceptors
+* **Key Role**:
+  * 옷장 목록 정보 저장 및 사용자 취향 조건 분석을 통한 아이템 일치 알고리즘 구현
+  * Axios Interceptor를 통한 클라이언트-서버 간 보안 JWT 무선 인증 체계 및 공공 API 데이터 통신 로직 고도화
 
 ---
 
 ## 🎓 Certifications
-* **SQLD** (SQL Developer) - 한국데이터산업진흥원 (2025.11 취득)
+* **정보처리기사** - 한국산업인력공단 (2025.12 취득)
+* **SQLD** (SQL Developer) - 한국데이터산업진흥원 (2025.12 취득)
 * **ADsP** (데이터분석준전문가) - 한국데이터산업진흥원 (2026.02 취득)
-* **정보처리기사** (취득 예정)
 
 ---
 
