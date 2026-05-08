@@ -60,11 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인계정명&show_icons=true&theme=radical&align=center" alt="Myeongjun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical&align=center" alt="Myeongjun's GitHub stats" />
 </p>
 
 ---
 
 ## 📫 Contact
-* **Email**: your-email@gmail.com
+* **Email**: audwns6302@naver.com
 * **Location**: Busan, South Korea
