@@ -2,11 +2,9 @@
 
 # 💻 Myeongjun Lee | Back-End Engineer
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=003545&height=180&section=header&text=Myeongjun%20Lee&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=003545&height=200&section=header&text=Myeongjun%20Lee&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <br>
-
-<img src="https://github.com/LMJ-01.png" width="120px" style="border-radius: 50%; border: 3px solid #003545; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
 
 <br><br>
 
