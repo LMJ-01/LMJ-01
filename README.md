@@ -107,7 +107,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical&align=center" alt="LMJ-01's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical" alt="LMJ-01's GitHub stats" />
 </p>
 
 <p align="center">
