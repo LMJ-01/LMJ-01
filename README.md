@@ -1,14 +1,12 @@
+<div align="center">
+
 # 💻 Myeongjun Lee | Back-End Engineer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e222b&height=120&section=header&text=Myeongjun%20Lee&fontSize=40&fontColor=ffffff" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e222b&height=120&section=header&text=Myeongjun%20Lee&fontSize=40&fontColor=ffffff" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Focus+on+Robust+Backend+Architecture;%F0%9F%9A%80+Spring+Boot+%26+FastAPI+%26+React;%F0%9F%94%8C+Seamless+AI+Integration+%26+Data+Pipeline" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Focus+on+Robust+Backend+Architecture;%F0%9F%9A%80+Spring+Boot+%26+FastAPI+%26+React;%F0%9F%94%8C+Seamless+AI+Integration+%26+Data+Pipeline" />
 
-<p align="center">
+<p>
   <a href="https://github.com/LMJ-01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
@@ -16,8 +14,11 @@
   <img src="https://img.shields.io/github/followers/LMJ-01?style=flat-square&color=lightgray" />
 </p>
 
-> **"지속 가능한 백엔드 아키텍처 설계와 시스템 간 안정적인 데이터 동기화를 지향합니다."**
-> 단일 서버 구축부터 다중 인프라 분기, 클라우드 환경 배포, 그리고 복합 데이터의 가공 및 정규화 파이프라인 구축에 집중하고 있습니다.
+### "서버 간의 안정적인 데이터 흐름과 견고한 보안 설계를 지향하는 백엔드 엔지니어 이명준입니다."
+단순 기능 구현을 넘어 멀티 서버 아키텍처와 독립 인프라의 효율적인 연동을 좋아합니다.  
+현재는 대량의 외부 데이터를 수집해 정규화하고, 이를 다양한 AI 모델 및 유저 데이터와 결합하는 데이터 파이프라인 설계에 몰입하고 있습니다.
+
+</div>
 
 ---
 
@@ -41,25 +42,15 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/recharts-3182BD?style=for-the-badge&logo=chartmogul&logoColor=white" />
 </p>
 
-### Infrastructure, Cloud & DevOps
+### Infrastructure, Cloud & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### Databases & Tools
-<p align="left">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
 ---
@@ -69,31 +60,31 @@
 ### 👥 Team Projects
 
 #### 🎬 [Connected_M](https://github.com/LMJ-01/Connected-M.git) (영화 탐색 및 AI 분석 플랫폼)
-* **Description**: TMDB의 대중적인 데이터와 씨네21의 전문 비평 데이터를 매핑하고, Google Gemini AI 기반 챗봇을 결합하여 복합적인 영화 추천 및 분석 서비스를 제공하는 플랫폼입니다.
-* **Stack**: Java 17, Spring Boot 3.2.4, Python, FastAPI, MariaDB (JPA), LangChain, React 18, TypeScript, Docker, GCP
+* **Description**: 대중 데이터(TMDB)와 전문 비평(씨네21) 데이터 매핑 및 AI 챗봇 추천 영화 플랫폼
+* **Stack**: Spring Boot, Spring Security, OAuth2, JWT, FastAPI, LangChain, MariaDB, React, Docker, GCP
 * **Key Role**:
-  * Spring Security, OAuth2(Google/Kakao), JWT 기반 통합 인증 인프라 아키텍처 구축
-  * Spring Boot 메인 백엔드 서버와 AI 처리용 Python FastAPI 서버 분산 분리 설계
-  * Selenium 및 BeautifulSoup4 기반 비평 데이터 크롤링 파이프라인 개발 및 DB 정규화 동기화
-  * 사용자 히스토리 기반 데이터 선순환 구조(최근 본 목록, 리뷰 별점 통계 등)의 복합 쿼리 및 Entity 설계
+  * Spring Security + OAuth2 + JWT 기반의 소셜 로그인 및 통합 인증 아키텍처 설계
+  * 메인 백엔드(Spring Boot)와 AI 전용 서버(FastAPI) 분산 분리 및 통신 구조 구축
+  * Selenium & BeautifulSoup4 기반 데이터 크롤링 파이프라인 구축 및 무결성 검증
+  * 최근 본 영화(`RecentView`) 및 유저 히스토리 기반 데이터 선순환 스키마 설계
 
 #### 🌉 [Invisible-AI-Bridge](https://github.com/Invisible-AI-Bridge/Invisible-AI-Bridge.git) (지능형 데이터 가교 플랫폼)
-* **Description**: 사용자 개입 없이 비정형 데이터를 AI가 즉시 처리 가능한 최적 규격(AI-Readable Standard)으로 실시간 정규화하여 학습 효율을 극대화하는 중계 플랫폼입니다.
-* **Stack**: TypeScript, Python, API Gateway, Java, Spring Boot, FastAPI, LangChain
+* **Description**: 비정형 데이터를 AI 학습에 맞춘 최적 규격으로 실시간 정규화해 주는 중계 플랫폼
+* **Stack**: TypeScript, Python, Java, Spring Boot, FastAPI, LangChain
 * **Key Role**:
-  * 다중 AI API 라우팅 최적화 및 비동기 파싱 파이프라인 설계 협업
-  * 대용량 데이터 전처리 모듈 및 데이터 흐름 상태 제어 로직 수립 기여
+  * 다중 AI API의 실시간 비동기 파싱 파이프라인 및 라우팅 설계 협업
+  * 대용량 데이터 전처리 모듈 구조 설계 및 상태 제어 알고리즘 구현 기여
 
 ---
 
 ### 👤 Individual Projects
 
-#### 👕 [Stylemate](https://github.com/LMJ-01/stylemate.git) (개인 취향 및 상황 기반 스타일 매칭 플랫폼)
-* **Description**: 등록된 옷장 정보와 날씨, 취향 데이터를 연동하여 유저에게 최적의 상황별 스타일링 가이드를 제안하는 패션 플랫폼입니다.
-* **Stack**: Java, Spring Boot, Javascript, HTML5, CSS3, Rest API, Axios, MySQL
+#### 👕 [Stylemate](https://github.com/LMJ-01/stylemate.git) (개인 상황 기반 스타일 매칭 플랫폼)
+* **Description**: 개인 옷장 데이터와 날씨 API를 매치해 맞춤 코디를 제안하는 패션 플랫폼
+* **Stack**: Spring Boot, Javascript, HTML5, CSS3, MySQL, Rest API, Axios
 * **Key Role**:
-  * 사용자 옷장 데이터 저장 및 실시간 외부 기상 API와의 유연한 연동 설계
-  * JWT 토큰 만료 처리 및 API 호출 제어를 위한 Axios Interceptor 연동 기반 통신 모듈 단독 구현
+  * 옷장 내 의류 분류 로직 및 기상청 기상 조건 매칭 API 단독 설계
+  * JWT 인증 만료 및 보안 API 제어를 위한 Axios Interceptor 모듈 구현
 
 ---
 
@@ -104,10 +95,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical" alt="LMJ-01's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LMJ-01&show_icons=true&theme=radical" alt="LMJ-01's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMJ-01&layout=compact&theme=radical" alt="LMJ-01's Top Languages" />
 </p>
 
 <p align="center">
