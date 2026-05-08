@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Busan-South%20Korea-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-> **"대중성과 전문성을 잇는 데이터 선순환과 AI 통합에 몰입하는 주니어 백엔드 개발자입니다."** > 데이터 모델링의 정교함과 인프라 배포의 안정성을 최우선으로 생각하며, 현재 영화 탐색 및 AI 분석 플랫폼 **Connected_M** 프로젝트를 리딩하고 있습니다.
+> **"대중성과 전문성을 잇는 데이터 선순환과 AI 통합에 몰입하는 주니어 백엔드 개발자입니다."** > 데이터 모델링의 정교함과 인프라 배포의 안정성을 최우선으로 생각하며, 현재 영화 탐색 및 AI 분석 플랫폼 **ConnectedM** 프로젝트를 리딩하고 있습니다.
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 🚀 Key Projects
 
-### 🎬 [Connected_M](https://github.com/LMJ-01) (영화 탐색 및 AI 분석 플랫폼)
+### 🎬 [ConnectedM](https://github.com/LMJ-01) (영화 탐색 및 AI 분석 플랫폼)
 * **Description**: TMDB의 대중적인 데이터와 씨네21의 전문 비평 데이터를 하이브리드로 통합하고, Google Gemini AI 기반 챗봇을 통해 개인화된 맞춤형 추천 및 영화 심층 분석을 제공하는 플랫폼입니다.
 * **Stack**: Java 17, Spring Boot 3.2.4, Python, FastAPI, MariaDB (JPA), LangChain, React 18, TypeScript, Docker, GCP
 * **Key Role**:
@@ -66,7 +66,6 @@
 ## 🎓 Certifications
 * **SQLD** (SQL Developer) - 한국데이터산업진흥원 (2025.11 취득)
 * **ADsP** (데이터분석준전문가) - 한국데이터산업진흥원 (2026.02 취득)
-* **빅데이터분석기사** (필기 합격 및 분석 역량 보유)
 * **정보처리기사** (취득 예정)
 
 ---
