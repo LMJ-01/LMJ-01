@@ -120,9 +120,3 @@
   <img src="https://img.shields.io/badge/SQLD-한국데이터산업진흥원%20(2025.12)-009688?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/ADsP-한국데이터산업진흥원%20(2026.02)-FF9800?style=flat-square&logo=googleanalytics&logoColor=white" />
 </p>
-
----
-
-## 📫 Contact
-* **Email**: audwns6302@naver.com
-* **Location**: Busan, South Korea
